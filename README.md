@@ -17,9 +17,6 @@
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg"/>
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg"/>
-  <img height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/PNG/PowerQuery-Colored.png"/>   
   <img height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/6f46ba890ce665c6eb4691244ae37b001d0506a0/SVG/Desktop.svg"/>
   <img height="30" width="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/6f46ba890ce665c6eb4691244ae37b001d0506a0/SVG/PowerBI.svg"/>
   <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg"/>
